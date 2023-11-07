@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9DCD5B83-539B-430F-8395-27F6FA09E6E5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F6733B4-D4B1-4B8E-B7DD-421F72EF9690"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieDatabaseAppUITests/MovieDatabaseAppUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "MovieDatabaseAppUITests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "590AC7C2-C2B4-444B-BA30-425D72F66446"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieDatabaseApp/MovieApp/ViewModels/MoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "getMovies(category:filter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "590AC7C2-C2B4-444B-BA30-425D72F66446 - 4ae280a93505a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieDatabaseApp.MoviesViewModel.getMovies(category: Swift.String, filter: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;MovieDatabaseApp.Movie&gt;"
+                  moduleName = "MovieDatabaseApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yallalalitesh/Documents/Cricbuzz/MovieDatabaseApp/MovieDatabaseApp/MovieApp/ViewModels/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "590AC7C2-C2B4-444B-BA30-425D72F66446 - 380eecbd7a9db80c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (MovieDatabaseApp.Movie) -&gt; Swift.Bool in MovieDatabaseApp.MoviesViewModel.getMovies(category: Swift.String, filter: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Array&lt;MovieDatabaseApp.Movie&gt;"
+                  moduleName = "MovieDatabaseApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yallalalitesh/Documents/Cricbuzz/MovieDatabaseApp/MovieDatabaseApp/MovieApp/ViewModels/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
